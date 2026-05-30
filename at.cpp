@@ -13,7 +13,7 @@ int main(){
 
     cout<<gpa.at(2)<<endl;
     //   == OR ==
-    cout<<gpa[1]<<endl;
+    cout<<gpa[2]<<endl;
 
     gpa.insert(gpa.begin(), 90);//  insert function
     cout<<*(gpa.begin())<<endl;
