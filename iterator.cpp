@@ -20,15 +20,15 @@ int main()
     second.push_back(196);
 
     vector<int>::iterator it = first.begin();
-    while(it !=first.end()){
-        cout<<*it<<" "<<endl;
+    while (it != first.end())
+    {
+        cout << *it << " " << endl;
         it++;
     }
-    vector<int>::iterator pi= second.begin();
-    while(pi !=second.end()){
-        cout<<*pi<<" "<<endl;
+    vector<int>::iterator pi = second.begin();
+    while (pi != second.end())
+    {
+        cout << *pi << " " << endl;
         pi++;
     }
-
-
 }
