@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-w
 int main()
 {
     vector<int> first;
